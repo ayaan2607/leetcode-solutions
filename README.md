@@ -4,7 +4,10 @@ This repository contains my solutions to LeetCode problems.
 
 ## Progress
 
-- Total Problems Solved: 1
+- Total Problems Solved: 7
+- Easy: 6
+- Medium: 1
+- Hard: 0
 
 ## Topics
 
