@@ -4,10 +4,10 @@ This repository contains my solutions to LeetCode problems.
 
 ## Progress
 
-- Total Problems Solved: 35
-- Easy: 30
-- Medium: 5
-- Hard: 0
+- Total Problems Solved: 50
+- Easy: 41
+- Medium: 8
+- Hard: 1
 
 ## Topics
 
